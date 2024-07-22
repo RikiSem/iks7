@@ -1,0 +1,15 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    margin: auto;
+}
+.post {
+    color: black;
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    border: 1px solid black;
+    padding: 5px;
+    margin: 5px auto 5px auto;
+}
